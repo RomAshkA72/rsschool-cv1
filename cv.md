@@ -1,12 +1,12 @@
 # Roman Dervoed
 
-## Email: dervoedroman05@gmail.com
+## Email: dervoedroman05@gmail.com.
 
-## Information: 19 years old, I live in Belarus, in the future I want to become a front-end developer.
+## Information: 19 years old, i live in Belarus, in the future i want to become a front-end developer.
 
 ## Skills: i work in visual studio, i know a little HTML, CSS, C#.
 
-## Code examples: function square(num) { return num * num;}
+## Code examples: function square(n) { return n * n;}
 
 ## Experience: absent.
 
