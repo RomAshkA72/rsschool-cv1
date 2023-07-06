@@ -2,7 +2,7 @@
 
 ## Email: dervoedroman05@gmail.com.
 
-## Information: 19 years old, i live in Belarus, in the future i want to become a front-end developer.
+## Information: 19 y.o. , i live in Belarus, in the future i want to become a front-end developer.
 
 ## Skills: i work in visual studio, i know a little HTML, CSS, C#.
 
