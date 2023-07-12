@@ -1,6 +1,6 @@
 # Roman Dervoed
 
-## Email: dervoedroman05@gmail.com.
+## Email: dervoedroman05@gmail.com;
 
 ## Information: 19 y.o. , i live in Belarus, in the future i want to become a front-end develope;
 
