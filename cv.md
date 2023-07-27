@@ -10,6 +10,6 @@
 
 ## Experience: absent;
 
-### Education: i study at the 3rd year of the Belarusian National Technical University (BNTU);
+## Education: i study at the 3rd year of the Belarusian National Technical University (BNTU);
 
-### English level: A1;
+## English level: A1;
