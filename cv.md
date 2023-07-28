@@ -8,8 +8,8 @@
 
 ## Code examples: function square(n) { return n * n;};
 
-## Experience: absent;
+# Experience: absent;
 
-## Education: i study at the 3rd year of the Belarusian National Technical University (BNTU);
+# Education: i study at the 3rd year of the Belarusian National Technical University (BNTU);
 
 # English level: A1;
