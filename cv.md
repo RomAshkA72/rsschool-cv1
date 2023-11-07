@@ -6,7 +6,7 @@
 
 ## Skills: i work in Visual Studio, i know a little HTML, CSS, C#;
 
-## Code examples: function square(n) { return n * n;};
+## Code examples: const fun = () => { let n; n * n; return n; };
 
 ## Experience: absent;
 
